@@ -1,0 +1,119 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "ng-click-outside@^4.0.0",
+        "scope": null,
+        "escapedName": "ng-click-outside",
+        "name": "ng-click-outside",
+        "rawSpec": "^4.0.0",
+        "spec": ">=4.0.0 <5.0.0",
+        "type": "range"
+      },
+      "/Users/mse/workspace/develop-keyboard/fhome-gui-mobile-app"
+    ]
+  ],
+  "_from": "ng-click-outside@>=4.0.0 <5.0.0",
+  "_id": "ng-click-outside@4.0.0",
+  "_inCache": true,
+  "_location": "/ng-click-outside",
+  "_nodeVersion": "10.1.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/ng-click-outside_4.0.0_1526855676411_0.577061679712068"
+  },
+  "_npmUser": {
+    "name": "arkon",
+    "email": "ey.cheung@outlook.com"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "ng-click-outside@^4.0.0",
+    "scope": null,
+    "escapedName": "ng-click-outside",
+    "name": "ng-click-outside",
+    "rawSpec": "^4.0.0",
+    "spec": ">=4.0.0 <5.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ng-click-outside/-/ng-click-outside-4.0.0.tgz",
+  "_shasum": "73e2a072c8dac0622c0f46763439cdc345479bd3",
+  "_shrinkwrap": null,
+  "_spec": "ng-click-outside@^4.0.0",
+  "_where": "/Users/mse/workspace/develop-keyboard/fhome-gui-mobile-app",
+  "author": {
+    "name": "Eugene Cheung"
+  },
+  "bugs": {
+    "url": "https://github.com/arkon/ng-click-outside/issues"
+  },
+  "dependencies": {},
+  "description": "Angular directive for handling click events outside an element.",
+  "devDependencies": {
+    "@angular/common": "^6.0.2",
+    "@angular/compiler": "^6.0.2",
+    "@angular/compiler-cli": "^6.0.2",
+    "@angular/core": "^6.0.2",
+    "@angular/platform-browser": "^6.0.2",
+    "rimraf": "^2.6.2",
+    "rxjs": "^6.1.0",
+    "tslint": "^5.10.0",
+    "typescript": "~2.7.2",
+    "zone.js": "^0.8.26"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-b5JIWKjaALmKWmy8SXQjxrRIaPqExmqktcZXRwHflzR0UqUKKBT/2C33jBMI425QD75BPqpAiGq5xujzEybkUw==",
+    "shasum": "73e2a072c8dac0622c0f46763439cdc345479bd3",
+    "tarball": "https://registry.npmjs.org/ng-click-outside/-/ng-click-outside-4.0.0.tgz",
+    "fileCount": 15,
+    "unpackedSize": 24086,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbAff9CRA9TVsSAnZWagAAB70P/Rl2gf32vhYBgnB9HvuP\nABkELph/UGqUUyuc40oqQs87F0RrIwIZjeDjoyhFx3hlK2ApvxiQqxfoMt0u\nNSmEOS2Q35bVmMaZawRzAJrRkeMXeAdTXW7gi/+cs7Y2wAFWqtQWy/FYz9Lb\nvWMofcYj5EWOilAMmPMa/QgKyk+ig44IXLJThRe8e0bvecYhHpYU88kswdbg\ndudRjNZRs/jvL0+PykJxeakwAaM/U3EN+kck3aNa3EssAwN5vboIAWOCIGBz\nWWLFycrVu9Zq71kVugCjDhoVDSh9WSt3iRwywFEhIVvIT6hjxzkfkKoKuBB6\n81GNKltsoL7+50+DOGfi8g5lmcA9sfNrmf/WqTNUMS8zj+CHPQOoNZRkdfLk\nt68DPubXcIe10152fyKVIKGVTW/oEODMfWr2oZux64jOETqqIi7Q++PPMtjw\nm8lf7wgk2nOFEtw0O+7wuBH5VaUFnEdcN8hjF6H7/yTW5petcfzQ6QagXwFf\nKEnJzw6pw7WQWEeb/RfIvraCPitFHXZRf5aFdKlarqrfPQ/pw7yo/asnIAFq\nyX2HP0jMOOP1Rdiz/9sZ+L8kMpG7YfE8dUqrIHzJkF9ozGi+/ibC3Zy/Ra0Q\nRqOQfDe0Nuir0ozszYtfllB8JkHS7MH7ASUO/b1t5vt1z8p3cTNaOC+yQYP7\nunDI\r\n=OzQv\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "files": [
+    "src/*",
+    "lib/*",
+    "README.md",
+    "LICENSE"
+  ],
+  "gitHead": "9fd9ede70eace78664e64b34c6050274566bcb0b",
+  "homepage": "http://echeung.me/ng-click-outside/",
+  "keywords": [
+    "angular",
+    "ng",
+    "click",
+    "event",
+    "outside",
+    "handler"
+  ],
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "maintainers": [
+    {
+      "name": "arkon",
+      "email": "ey.cheung@outlook.com"
+    }
+  ],
+  "name": "ng-click-outside",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@angular/common": ">=6.0.0",
+    "@angular/core": ">=6.0.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkon/ng-click-outside.git"
+  },
+  "scripts": {
+    "build": "npm run lint && rimraf lib && ngc",
+    "lint": "tslint --project tsconfig.json src/**/*.ts",
+    "prepare": "npm run build"
+  },
+  "typings": "./lib/index.d.ts",
+  "version": "4.0.0"
+}
